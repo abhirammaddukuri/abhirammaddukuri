@@ -1,5 +1,6 @@
 # 💫 About Me:
- A highly motivated and results-driven Computer Science student with a strong foundation in software<br> development, database management, and problem-solving. Proficient in multiple programming languages<br> and frameworks, with experience in team collaboration, growth analysis, and financial product<br> assessments. Passionate about using technical expertise to drive impactful solutions and eager to<br> contribute to innovative projects.
+Results-driven and detail-oriented Computer Science undergraduate specializing in Artificial Intelligence, with a demonstrated ability to architect, develop, and deploy scalable software solutions. Proficient in full-stack web development, machine learning algorithms, and data-driven application design. Adept at collaborating in cross-functional teams, translating complex problems into actionable solutions, and continuously exploring emerging technologies to drive innovation. Committed to leveraging technical expertise and a growth mindset to contribute meaningfully to high-impact projects.
+
 
 
 ## 🌐 Socials:
